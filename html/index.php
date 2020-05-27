@@ -10,8 +10,8 @@
       ini_set('display_errors', 'On'); ini_set('html_errors', 0); error_reporting(-1);
       
          $dbhost = 'localhost';
-         $database = "roshan11_db";
-         $dbuser = 'roshan11_db';
+         $database = "Redacted";
+         $dbuser = 'Redacted';
          $dbpass = '189Miller';
          $conn = mysqli_connect($dbhost, $dbuser, $dbpass, $database);
    
